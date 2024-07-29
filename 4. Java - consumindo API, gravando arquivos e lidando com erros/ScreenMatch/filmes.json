@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "Transformers",
+    "AnoLancamento": 2007,
+    "IncluidoPlano": false,
+    "SomaAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoMinutos": 14
+  },
+  {
+    "Nome": "Matrix",
+    "AnoLancamento": 1993,
+    "IncluidoPlano": false,
+    "SomaAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoMinutos": 60
+  },
+  {
+    "Nome": "Ghost",
+    "AnoLancamento": 1990,
+    "IncluidoPlano": false,
+    "SomaAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoMinutos": 12
+  }
+]
